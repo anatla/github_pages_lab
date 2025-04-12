@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Apr 2025 15:27:10 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Дневники няни</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Sat, 12 Apr 2025 15:27:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;Молодая студентка колледжа из рабочего класса, устраиваясь подработать няней в одной из богатых семей из Манхэттэна, никак не могла предвидеть, какими сложностями всё это для неё обернётся. Изнеженная жена, вечно где-то пропадающий муж и донельзя избалованный шестилетний ребёнок постоянно становятся источниками проблем для неё.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Интерстеллар</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 12 Apr 2025 15:27:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Наше время на Земле подошло к концу, команда исследователей берет на себя самую важную миссию в истории человечества; путешествуя за пределами нашей галактики, чтобы узнать есть ли у человечества будущее среди звезд.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Мамма Мия!</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Sat, 12 Apr 2025 15:27:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;p&gt;Софи собирается замуж и мечтает, чтобы церемония прошла по всем правилам. Она хочет пригласить на свадьбу отца, чтобы он провёл её к алтарю, но не знает, кто он, так как мать никогда не рассказывала о нём. Софи находит дневник матери, в котором та описывает отношения с тремя мужчинами. Софи решает отправить приглашения всем троим.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
